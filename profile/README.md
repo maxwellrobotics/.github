@@ -3,7 +3,7 @@
 <!-- Logo -->
 <p align="center">
   <!-- Replace the src with the correct path to your logo -->
-  <img src="./assets/maxwell-logo.png" alt="Maxwell Robotics Logo" width="200">
+  <img src="./assets/maxwell-robotics_logo.png" alt="Maxwell Robotics Logo" width="200">
 </p>
 
 <div align="center">
