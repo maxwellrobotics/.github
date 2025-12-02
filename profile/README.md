@@ -1,8 +1,14 @@
 <!-- Maxwell Robotics – GitHub Organization Profile -->
 
+<!-- Logo -->
+<p align="center">
+  <!-- Replace the src with the correct path to your logo -->
+  <img src="./assets/maxwell-logo.png" alt="Maxwell Robotics Logo" width="200">
+</p>
+
 <div align="center">
 
-# 🤖 Maxwell Robotics
+# Maxwell Robotics
 
 ### Practical Robotics for the Real World
 
